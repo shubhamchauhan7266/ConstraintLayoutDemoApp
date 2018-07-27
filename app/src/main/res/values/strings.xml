@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ConstraintLayoutDemoApp</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="haridwar">Haridwar</string>
+    <string name="submit">Submit</string>
+    <string name="shubham_chauhan">Shubham Chauhan</string>
 </resources>
